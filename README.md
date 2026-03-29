@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm María 👋
 
-<!--
-**MariaBayan-Dev/MariaBayan-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Frontend Developer based in Spain  
+Passionate about building interactive and visual web projects  
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- Improving my JavaScript skills  
+- Learning React  
+- Building personal projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- HTML  
+- CSS  
+- JavaScript  
+
+## 🌟 Featured project
+- [Anime-List](https://github.com/MariaBayan-Dev/Anime-List)(my favorite project actually)
+
+## 🎨 About me
+I enjoy drawing and creating visual content, which helps me focus on UI and design in my projects.
