@@ -14,7 +14,7 @@ Passionate about building interactive and visual web projects
 - JavaScript  
 
 ## 🌟 Featured project
-- [Anime-List](https://github.com/MariaBayan-Dev/Anime-List)(my favorite project actually)
+- [Anime-List] (https://github.com/MariaBayan-Dev/Anime-List)(my favorite project actually)
 
 ## 🎨 About me
 I enjoy drawing and creating visual content, which helps me focus on UI and design in my projects.
