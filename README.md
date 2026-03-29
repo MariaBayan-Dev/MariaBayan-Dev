@@ -9,9 +9,9 @@ Passionate about building interactive and visual web projects.
 - Building personal projects  
 
 ## 🛠️ Technologies
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 🌟 Featured project
 - [Anime-List](https://github.com/MariaBayan-Dev/Anime-List) (my favorite project for now).
