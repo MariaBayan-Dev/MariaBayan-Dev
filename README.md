@@ -17,7 +17,7 @@ Passionate about building interactive and visual web projects.
 
 
 ## 🌟 Featured project
-- [Anime-List](https://github.com/MariaBayan-Dev/Anime-List) (my favorite project for now).
+- [Linguist Pro](https://github.com/MariaBayan-Dev/linguist-pro) (my favorite project for now).
 
 ## 🎨 About me
 I enjoy drawing and creating visual content, which helps me focus on UI and design in my projects.
