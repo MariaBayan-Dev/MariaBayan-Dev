@@ -21,7 +21,7 @@ Passionate about building interactive and visual web projects.
 
 ## 🌟 Featured project
 
-- [Linguist Pro](https://github.com/MariaBayan-Dev/linguist-pro) (my favorite project for now).
+- [PokéFinder](https://github.com/MariaBayan-Dev/PokeFinder) (my favorite project for now).
 
 ## 🎨 About me
 
